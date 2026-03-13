@@ -1,6 +1,6 @@
 # Castor Repository
 
-A collection of hardened, high-performance userscripts designed for surgical web optimization.
+A collection of hardened, high-performance userscripts designed for Tampermonkey
 
 ## Current Tools
 
